@@ -1,0 +1,10 @@
+
+”
+java:S2095"LUse try-with-resources or close this "BrowserContext" in a "finally" clause.(¬ƒÅùÿÿÿÿ8ô˜Ïù1J$5d6f3ac9-6061-4812-81b2-0d1e20d5a65b
+Š
+java:S2095"BUse try-with-resources or close this "Page" in a "finally" clause.(¥ÚíËüÿÿÿÿ8±‰Ìù1J$4a076b64-1f2d-42e8-a5c4-42f1e71ba050
+ƒ	java:S125	"<This block of commented-out lines of code should be removed.(£Ö°ûÿÿÿÿ8´‰Ìù1J$f96f91e8-d1fc-46a6-b217-37a495523a3d
+¹
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78¸‰Ìù1J$2cc278a5-3907-4944-9ac7-717b1898ce8c
+V
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8îœÔù1
